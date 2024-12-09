@@ -6,6 +6,6 @@ This app is written in 100% Batch, meaning it is for **Windows Only**! Any other
 If you have any suggestions for this code, please email me: johnfioregames@gmail.com
 
 ## How to Use
-Step I: Open/run "sps.bat"
-Step II: From there, enter your desired steam ID - NOTE: This only accepts numeric IDs and not custom IDs.
-Step III: Press Enter, and it should open the profile in the Steam Client.
+Step I: Open/run "sps.bat"\
+Step II: From there, enter your desired steam ID - NOTE: This only accepts numeric IDs and not custom IDs.\
+Step III: Press Enter, and it should open the profile in the Steam Client.\
